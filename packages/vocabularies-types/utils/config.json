@@ -1,0 +1,17 @@
+{
+    "Auth": "https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Authorization.V1.json",
+    "Core": "https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Core.V1.json",
+    "Capabilities": "https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Capabilities.V1.json",
+    "Aggregation": "https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Aggregation.V1.json",
+    "Validation": "https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Validation.V1.json",
+    "Measures": "https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Measures.V1.json",
+    "Analytics": "https://sap.github.io/odata-vocabularies/vocabularies/Analytics.json",
+    "Common": "https://sap.github.io/odata-vocabularies/vocabularies/Common.json",
+    "CodeList": "https://sap.github.io/odata-vocabularies/vocabularies/CodeList.json",
+    "Communication": "https://sap.github.io/odata-vocabularies/vocabularies/Communication.json",
+    "Hierarchy": "https://sap.github.io/odata-vocabularies/vocabularies/Hierarchy.json",
+    "PersonalData": "https://sap.github.io/odata-vocabularies/vocabularies/PersonalData.json",
+    "Session": "https://sap.github.io/odata-vocabularies/vocabularies/Session.json",
+    "UI": "https://sap.github.io/odata-vocabularies/vocabularies/UI.json",
+    "HTML5": "https://sap.github.io/odata-vocabularies/vocabularies/HTML5.json"
+}
